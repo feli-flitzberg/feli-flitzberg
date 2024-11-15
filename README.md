@@ -5,8 +5,8 @@
 - How to reach me: feliflitzberg@proton.me
 - Pronouns: baphomet takes any pronouns
 - Fun fact: ocarinas are easier to play than recorders, and can be mastered more easily than recorders as well
-[![roadmap.sh](https://roadmap.sh/card/tall/66ad3cd719ba71f57b2c4863?variant=dark&roadmaps=linux%2Csql%2Cgame-developer)](https://roadmap.sh)
 - Ko-fi: https://ko-fi.com/feliflitzberg
+[![roadmap.sh](https://roadmap.sh/card/tall/66ad3cd719ba71f57b2c4863?variant=dark&roadmaps=linux%2Csql%2Cgame-developer)](https://roadmap.sh)
 
 <!---
 feli-flitzberg/feli-flitzberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
