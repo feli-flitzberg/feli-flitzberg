@@ -8,7 +8,7 @@
 - Ko-fi: https://ko-fi.com/feliflitzberg
 - Roadmah.sh: <https://roadmap.sh/u/flitzberg>
 
-[roadmap.sh](https://roadmap.sh/card/tall/66ad3cd719ba71f57b2c4863?variant=dark&roadmaps=linux%2Csql%2Cgame-developer)(https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66ad3cd719ba71f57b2c4863?variant=dark&roadmaps=linux%2Cgit-github%2Cgame-developer%2Csql)](https://roadmap.sh)
 
 <!---
 feli-flitzberg/feli-flitzberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
